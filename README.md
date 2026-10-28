@@ -22,7 +22,7 @@ from small, isolated processes with explicit supervision.
 
 Outside work, I tend to follow whatever makes me think, "I wonder how hard it would
 be to..." Recent rabbit holes include embedded hardware, [language implementations][lox],
-[emulators][sen], [building a small autograd engine in C][micrograd], and generating [Hamburg at 1:1 scale in Minecraft][hamburg-in-minecraft.
+[emulators][sen], [building a small autograd engine in C][micrograd], and generating [Hamburg at 1:1 scale in Minecraft][hamburg-in-minecraft].
 
 ## Let's talk
 
