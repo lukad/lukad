@@ -21,8 +21,8 @@ of a modern language. **Elixir** and OTP make it natural to build backend servic
 from small, isolated processes with explicit supervision.
 
 Outside work, I tend to follow whatever makes me think, "I wonder how hard it would
-be to..." Recent rabbit holes include embedded hardware, [language][orbit] [implementations][lox],
-emulators, and [building a small autograd engine in C][micrograd].
+be to..." Recent rabbit holes include embedded hardware, [languag implementations][lox],
+emulators, [building a small autograd engine in C][micrograd], and generating [Hamburg at 1:1 scale in Minecraft]().
 
 ## Let's talk
 
@@ -35,5 +35,5 @@ products where the technical details are part of the product.
 [blog]: https://luka.dornhecker.me
 [game-boy-printer]: https://luka.dornhecker.me/2025/05/07/gameboy-printer-hacking
 [micrograd]: https://luka.dornhecker.me/2026/06/26/micrograd-in-c
-[orbit]: https://github.com/lukad/orbit
 [lox]: https://github.com/lukad/lox
+[Hamburg at 1:1 scale in Minecraft]: https://github.com/lukad/hamburg-in-minecraft
