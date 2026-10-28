@@ -21,7 +21,7 @@ of a modern language. **Elixir** and OTP make it natural to build backend servic
 from small, isolated processes with explicit supervision.
 
 Outside work, I tend to follow whatever makes me think, "I wonder how hard it would
-be to..." Recent rabbit holes include embedded hardware, [languag implementations][lox],
+be to..." Recent rabbit holes include embedded hardware, [language implementations][lox],
 emulators, [building a small autograd engine in C][micrograd], and generating [Hamburg at 1:1 scale in Minecraft]().
 
 ## Let's talk
